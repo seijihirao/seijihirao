@@ -6,7 +6,7 @@
 
 Seiji here, just a simple software developer that likes to learn new things 😄.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seijihirao&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seijihirao&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some projects here that I am proud of
 
