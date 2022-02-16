@@ -1,8 +1,13 @@
+
+
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-seiji-piubeli-hirao-40644396/) 
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/seijihirao/) 
 [<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/2901111/seiji-hirao) 
 
-### Hi there 👋
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=seijihirao&layout=horizontal&badges=0&branding=false&style=--header-bg-color:%23000000000;--bg-color:%23000000000"
+/>
+## Hi there 👋
 
 Seiji here, just a simple software developer that likes to learn new things 😄.
 
