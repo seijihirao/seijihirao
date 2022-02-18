@@ -21,9 +21,9 @@ Seiji here, just a simple software developer that likes to learn new things 😄
 ---
 ---
 
-<img
+[<img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=seijihirao&layout=horizontal&badges=0&branding=false&style=--header-bg-color:%23000000000;--bg-color:%23000000000"
-/>
+/>](https://profile.codersrank.io/user/seijihirao)
 
 <!--
 **seijihirao/seijihirao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
