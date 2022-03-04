@@ -22,7 +22,7 @@ Seiji here, just a simple software developer that likes to learn new things 😄
 ---
 
 [<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=seijihirao&layout=horizontal&badges=0&branding=false&style=--header-bg-color:%23000000000;--bg-color:%23000000000"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=seijihirao&layout=horizontal&badges=3&branding=false&style=--header-bg-color:%23000000000;--bg-color:%23000000000"
 />](https://profile.codersrank.io/user/seijihirao)
 
 <!--
